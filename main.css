@@ -71,7 +71,7 @@ nav ul li a:hover::after{
     margin-top:20px;
  }
  .header-text h1 span{
-    color:#fcb900;
+    color: #fcb900;
  }
 .moving-text span{
     font-size: 32px;
